@@ -15,3 +15,4 @@
 
 Основные стили находятся в `styles/style.css`.
 Интерфейс выполнен по макету проектной работы.
+https://github.com/artemchuv/posmotri-v-okno-ad
